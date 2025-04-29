@@ -129,7 +129,7 @@
     <child
       link="FL_hip_link" />
     <axis
-      xyz="-1 0 0" />
+      xyz="1 0 0" />
     <limit
       lower="-0.61"
       upper="0.61"
@@ -238,7 +238,7 @@
     <child
       link="FL_thigh_link" />
     <axis
-      xyz="0 -1 0" />
+      xyz="0 1 0" />
     <limit
       lower="-1.5708"
       upper="1.5708"
@@ -347,7 +347,7 @@
     <child
       link="FL_calf_link" />
     <axis
-      xyz="0 -1 0" />
+      xyz="0 1 0" />
     <limit
       lower="-3.14"
       upper="3.14"
@@ -488,7 +488,7 @@
     <child
       link="FR_hip_link" />
     <axis
-      xyz="-1 0 0" />
+      xyz="1 0 0" />
     <limit
       lower="-0.61"
       upper="0.61"
@@ -956,7 +956,7 @@
     <child
       link="RL_thigh_link" />
     <axis
-      xyz="0 -1 0" />
+      xyz="0 1 0" />
     <limit
       lower="-1.5708"
       upper="1.5708"
@@ -1065,7 +1065,7 @@
     <child
       link="RL_calf_link" />
     <axis
-      xyz="0 -1 0" />
+      xyz="0 1 0" />
     <limit
       lower="-3.14"
       upper="3.14"
